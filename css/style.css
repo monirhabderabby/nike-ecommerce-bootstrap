@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-bg{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+.header-bg{
+    background-color: #FFF9F4;
+}
+.title-color{
+    color: #FA804C;
+}
+.navigation{
+    height: 80px;
+}
+.banner{
+    height: calc(100vh - 80px);
+}
+.button-icon{
+    width: 20px;
+}
+.bebas{
+    font-family: 'bebas Neue';
+    font-size: 80px;
+}
+.card>img{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.img-bg{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.drop-s{
+   filter:  drop-shadow(0px 30px 10px rgba(0, 0, 0, 0.15));
+}
